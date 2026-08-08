@@ -15,4 +15,11 @@
     height: 60%;
     margin: 0 15px;
   }
+
+  .head_container {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    font-size: 20px;
+  }
 }
