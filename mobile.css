@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+  .head_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .navbar {
+    align-items: center;
+    gap: 40px;
+  }
+
+  .main_container {
+    height: 60%;
+    margin: 0 15px;
+  }
+}
